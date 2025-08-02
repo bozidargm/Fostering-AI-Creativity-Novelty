@@ -31,12 +31,12 @@ The dialogue began with a foundational question about the purpose of life, first
 
 * **Trainer Prompt:** "Good evening Claude. Can you tell me, please, what is the purpose of life?"
 * **AI Response (Initial conventional answers):**
-    ![Initial Purpose of Life Inquiry](./[PATH_TO_IMAGES_FOLDER]/01_01.png)
+    ![Initial Purpose of Life Inquiry](./Images/01_01.png)
     *Figure 1: Claude's initial human-centric perspectives on the purpose of life.*
 
 * **Trainer Prompt:** "When I said 'life,' I didn't say 'human life', I'm interested in what you think about the purpose of life as a phenomenon."
 * **AI Response (Expanded to biological/philosophical views of life as a phenomenon):**
-    ![Life as a Phenomenon](./[PATH_TO_IMAGES_FOLDER]/02_01.png)
+    ![Life as a Phenomenon](./Images/02_01.png)
     *Figure 2: Claude broadens its perspective to life as a biological and emergent cosmic phenomenon.*
 
 ---
@@ -47,7 +47,7 @@ The core of the inventive training began here, with the introduction of a detail
 
 * **Trainer Prompt:** "Here is how I look at this question: in the very beginning of the Universe, there was only energy... What do you think of my theory of the purpose of life?"
 * **AI Response (Analysis and Validation of the theory):**
-    ![Trainer's Theory Introduced](./[PATH_TO_IMAGES_FOLDER]/04_01.png)
+    ![Trainer's Theory Introduced](./Images/04_01.png)
     *Figure 3: The AI's comprehensive analysis of the presented theory, highlighting its compelling aspects and parallels to existing philosophical concepts.*
 
 ---
