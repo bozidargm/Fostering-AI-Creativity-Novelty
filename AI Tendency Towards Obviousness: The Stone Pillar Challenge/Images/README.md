@@ -3,7 +3,7 @@
 
 ---
 
-This folder contains all the screenshots taken from the interactive dialogue session where the "The Stone Pillar Challenge" project was conceived and developed.
+This folder contains all the screenshots taken from the interactive dialogue session where the "The Stone Pillar Challenge" project was conceived and developed, and the task image.
 
 ---
 
