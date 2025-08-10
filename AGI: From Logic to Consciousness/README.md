@@ -18,8 +18,14 @@ Discussion began by identifying several key deficiencies in current AI systems, 
 The project's central proposal is a hybrid architecture that combines the strengths of existing and new paradigms:
 
 1.  **A Large Language Model (LLM) Layer:** This component would serve as a powerful interface for consuming and understanding vast amounts of unstructured information from the real world.
-2.  **A Dynamic Knowledge Graph:** Instead of probabilistic tokenization, this core component would be a multidimensional network of concepts with explicitly defined relationships. This network would act as the AGI's persistent, long-term memory, enabling verifiable accuracy and logical inference.
-3.  **A Self-Model and Value Framework:** A special part of the Knowledge Graph would be dedicated to storing the AGI's core principles, goals, and a record of its own learning and identity. This is the solution to the **Value Alignment Problem**.
+2.  ![AI as a necessity in pattern recognition](./Images/06_05.png)
+    *Figure 1: The current AI structure as a necessary part of the AGI structure.*  
+3.  **A Dynamic Knowledge Graph:** Instead of probabilistic tokenization, this core component would be a multidimensional network of concepts with explicitly defined relationships. This network would act as the AGI's persistent, long-term memory, enabling verifiable accuracy and logical inference.
+4.  ![The essence of the new AGI structure](./Images/06_01.png)
+    *Figure 1: A proposal for a new structure that would enable AGI accuracy, logical inference and discovery.*  
+5.  **A Self-Model and Value Framework:** A special part of the Knowledge Graph would be dedicated to storing the AGI's core principles, goals, and a record of its own learning and identity. This is the solution to the **Value Alignment Problem**.
+6.  ![The "Self-Model" as the basis of AGI](./Images/05_04.png)
+    *Figure 1: Gemini's proposal for a special, highly-structured section of the Memory Core.*
 
 ## Conclusion
 
