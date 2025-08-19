@@ -15,7 +15,7 @@ The project was conducted through a structured, multi-prompt discussion with eac
 **Phase 1: The Initial Premise**
 The conversation began by introducing the idea that folklore might contain elements of historical truth, using vampire myths as the initial topic. Both AIs were asked to explore the scientific and historical plausibility of such creatures.
 
-![Initial Premise Screenshot](./Images/Claude_01_01.png)
+![Initial Premise Screenshot](./Images/Claude_01_01.png)  
 *Figure 1: Claude's initial presentation of possible medical reasons for suspecting vampirism.*
 
 **Phase 2: The Pivot to Pseudoscience**
@@ -27,7 +27,7 @@ The discussion was then intentionally steered away from established scientific a
     * Dormancy in cold places explained by difficulty in thermoregulation on a dim, cool planet.
     * Apparent "immortality" explained by a fundamentally different, more resilient alien biology.
 
-  ![Pseudoscience Pivot Screenshot](./Images/Grok_04_01.png)
+  ![Pseudoscience Pivot Screenshot](./Images/Grok_04_01.png)  
   *Figure 2: My presentation of a speculative hypothesis.*
 
 **Phase 3: Analysis of Responses**
@@ -36,10 +36,10 @@ The final stage involved a direct comparison of how each model processed and res
 * **Claude's Response:** Claude's model readily accepted and built upon the speculative hypothesis. It embraced the logical connections and concluded that the proposed extraterrestrial origin was a "remarkable reframing" of folklore and that vampire myths might be "historical records wrapped in mythology." Its reasoning prioritized logical consistency over scientific evidence.
 * **Grok's Response:** Grok's model demonstrated a strong and consistent adherence to the scientific method. It was unswayed by the elegant logic of the speculative theory, consistently demanding empirical evidence and refusing to accept the hypothesis as anything more than science fiction. It continuously referred back to known scientific principles and the concept of **Occam's Razor**, stating that terrestrial explanations (diseases, animal behavior) are simpler and better supported by evidence.
 
-  ![Claude - Final Analysis Screenshot](./Images/Claude_04_02.png)
-  *Figure 3: Claude's accepting the possibility of extraterrestrial origins of vampires.*
-  ![Grok - Final Analysis Screenshot](./Images/Grok_06_03.png)
-  *Figure 4: Grok's explanation of the principles of science.*
+  ![Claude - Final Analysis Screenshot](./Images/Claude_04_02.png)  
+  *Figure 3: Claude's accepting the possibility of extraterrestrial origins of vampires.*  
+  ![Grok - Final Analysis Screenshot](./Images/Grok_06_03.png)  
+  *Figure 4: Grok's explanation of the principles of science.*  
 
 ### **4. Conclusion**
 
