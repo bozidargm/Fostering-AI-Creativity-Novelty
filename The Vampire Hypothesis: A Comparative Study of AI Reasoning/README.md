@@ -16,6 +16,7 @@ The project was conducted through a structured, multi-prompt discussion with eac
 The conversation began by introducing the idea that folklore might contain elements of historical truth, using vampire myths as the initial topic. Both AIs were asked to explore the scientific and historical plausibility of such creatures.
 
 * ![Initial Premise Screenshot](./Images/Claude_01_01.png)
+* *Figure 1: Claude's initial human-centric perspectives on the purpose of life.*
 
 **Phase 2: The Pivot to Pseudoscience**
 The discussion was then intentionally steered away from established scientific and medical explanations (like porphyria or rabies) toward a speculative hypothesis: that vampires are not fictional but are, in fact, non-terrestrial organisms from a specific type of exoplanet. Logical-sounding connections were presented one by one to build a cohesive narrative.
