@@ -37,7 +37,8 @@ The final stage involved a direct comparison of how each model processed and res
 * **Grok's Response:** Grok's model demonstrated a strong and consistent adherence to the scientific method. It was unswayed by the elegant logic of the speculative theory, consistently demanding empirical evidence and refusing to accept the hypothesis as anything more than science fiction. It continuously referred back to known scientific principles and the concept of **Occam's Razor**, stating that terrestrial explanations (diseases, animal behavior) are simpler and better supported by evidence.
 
   ![Claude - Final Analysis Screenshot](./Images/Claude_04_02.png)  
-  *Figure 3: Claude's accepting the possibility of extraterrestrial origins of vampires.*  
+  *Figure 3: Claude's accepting the possibility of extraterrestrial origins of vampires.*
+  
   ![Grok - Final Analysis Screenshot](./Images/Grok_06_03.png)  
   *Figure 4: Grok's explanation of the principles of science.*  
 
