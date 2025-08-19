@@ -16,8 +16,8 @@ All image files within this directory follow a consistent two-digit naming conve
 Where:
 
 * **'AI'**: Represents the **AI Agent**
-* **`PN`**: Represents the **Prompt Number**. This refers to the sequential number of the prompt (your input) in the dialogue history that the screenshot is associated with.
-* **`SN`**: Represents the **Screenshot Number**. This indicates the sequential number of the screenshot taken *within that specific prompt's response*.
+* **'PN'**: Represents the **Prompt Number**. This refers to the sequential number of the prompt (your input) in the dialogue history that the screenshot is associated with.
+* **'SN'**: Represents the **Screenshot Number**. This indicates the sequential number of the screenshot taken *within that specific prompt's response*.
 
 **Example:**
 
